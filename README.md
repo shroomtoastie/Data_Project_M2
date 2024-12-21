@@ -4,7 +4,7 @@ Political Donations By American Sports Owners
 
 
 # **Data Project Rubric**: 
-33Data Analysis with Python (Pandas & Matplotlib)
+Data Analysis with Python (Pandas & Matplotlib)
 
 ### 1. Project Overview 
 Objective: Students should define the project's goal or main question. 
